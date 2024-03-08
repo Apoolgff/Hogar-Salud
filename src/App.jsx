@@ -8,10 +8,10 @@ import Form from './components/Form'
 import './App.css'
 
 const images = [
-  '../public/image/Imagen1.jpg',
-  '../public/image/Imagen1.jpg',
-  '../public/image/Imagen1.jpg',
-  '../public/image/Imagen1.jpg',
+  '/public/image/Imagen1.jpg',
+  '/public/image/Imagen1.jpg',
+  '/public/image/Imagen1.jpg',
+  '/public/image/Imagen1.jpg',
 ];
 
 function App() {
