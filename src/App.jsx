@@ -9,9 +9,9 @@ import './App.css'
 
 const images = [
   '/public/image/Imagen1.jpg',
-  '/public/image/Imagen1.jpg',
-  '/public/image/Imagen1.jpg',
-  '/public/image/Imagen1.jpg',
+  '/public/image/Imagen2.jpg',
+  '/public/image/Imagen3.webp',
+  '/public/image/Imagen4.jpg',
 ];
 
 function App() {
