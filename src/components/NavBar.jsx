@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/NavBar.css'
-import health from '../assets/image/Health.svg'
+import health from '../../public/image/Health.svg'
 
 function NavBar() {
   return (

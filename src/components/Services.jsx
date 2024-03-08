@@ -1,8 +1,8 @@
 import React from 'react';
 import '../styles/Services.css';
-import careImage from '../assets/image/CareImage.svg'
-import ambulance from '../assets/image/Ambulance.svg'
-import doctor from '../assets/image/Doctor.svg'
+import careImage from '../../public/image/CareImage.svg'
+import ambulance from '../../public/image/Ambulance.svg'
+import doctor from '../../public/image/Doctor.svg'
 
 
 const Services = () => {

@@ -35,5 +35,6 @@
   .hero-img {
     max-width: 100%; /* Ajusta el tamaño máximo de la imagen según sea necesario */
     height: auto;
+    border: 5px solid #283739;
   }
   
